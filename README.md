@@ -114,4 +114,7 @@ GitHub: https://github.com/RaissaMatosDev
 📌 Observações
 Este projeto faz parte do meu portfólio de estudos e tem como objetivo demonstrar conhecimentos práticos em desenvolvimento backend com Java e Spring Boot.
 
+<img width="488" height="848" alt="Captura de tela 2026-01-13 222501" src="https://github.com/user-attachments/assets/6db8fb51-b42a-48ff-9d19-1c3bbcde7dbc" />
+<img width="1901" height="874" alt="Captura de tela 2026-01-13 220610" src="https://github.com/user-attachments/assets/d662cfdf-c2bf-49a3-a0fd-550a982e5f3a" />
+
 
