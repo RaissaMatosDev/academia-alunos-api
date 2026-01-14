@@ -44,10 +44,6 @@ src/main/java/org/example
 │ └── AlunoValidator.java
 └── Objetivo.java
 
-yaml
-Copiar código
-
----
 
 ## 🔗 Endpoints Disponíveis
 
@@ -57,42 +53,24 @@ Copiar código
 | POST | `/alunos`           | Cadastra um novo aluno        |
 | GET  | `/alunos/{id}`      | Busca aluno por ID            |
 
----
 
 ## 📦 Exemplo de Requisição (POST /alunos)
 
-```json
+
 {
   "nome": "João Silva",
   "idade": 22,
   "objetivo": "HIPERTROFIA"
 }
-📚 Documentação Swagger
+
+##📚 Documentação Swagger
 A API possui documentação interativa gerada automaticamente com Swagger.
 
 Após rodar o projeto localmente, acesse:
-
-bash
-Copiar código
 http://localhost:8080/swagger-ui/index.html
-▶️ Como Executar o Projeto
-Pré-requisitos
-Java 17
 
-Maven
 
-Passos
-bash
-Copiar código
-git clone https://github.com/SEU_USUARIO/student-management-api.git
-cd student-management-api
-mvn spring-boot:run
-A aplicação estará disponível em:
-
-arduino
-Copiar código
-http://localhost:8080
-🧠 Conceitos Aplicados
+##🧠 Conceitos Aplicados
 Arquitetura em camadas (Controller, DTO, Repository)
 
 Validação de dados
@@ -103,7 +81,7 @@ Persistência com JPA
 
 Documentação de API
 
-👩‍💻 Autora
+##👩‍💻 Autora
 Projeto desenvolvido por Raíssa Matos
 📌 Desenvolvedora Backend Java Júnior
 
