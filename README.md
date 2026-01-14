@@ -97,7 +97,7 @@ Maven
 
 Executar
 
-git clone https://github.com/SEU_USUARIO/academia-alunos-api.git
+git clone https://github.com/RaissaMatosDev/academia-alunos-api
 cd academia-alunos-api
 mvn spring-boot:run
 
