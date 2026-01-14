@@ -131,3 +131,6 @@ Desenvolvedora Backend Java Júnior
 LinkedIn: https://linkedin.com/in/raissamatosdev
 
 GitHub: https://github.com/RaissaMatosDev
+<img width="488" height="848" alt="Captura de tela 2026-01-13 222501" src="https://github.com/user-attachments/assets/206e12c3-3b4d-4622-b475-2f9631c2db51" />
+<img width="1901" height="874" alt="Captura de tela 2026-01-13 220610" src="https://github.com/user-attachments/assets/35f5aace-090c-4ba1-ac36-0512ab85bd02" />
+
